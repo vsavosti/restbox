@@ -156,7 +156,7 @@ cfg.routers = [
 // list of users
 cfg.labusers = [
   { login: 'user1',
-    password: 'user1pwd'
+    password: 'pass'
   },
   { login: 'user2',
     password: 'user2pwd'
